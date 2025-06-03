@@ -1,0 +1,17 @@
+/* Global body styles */
+body {
+  text-align: center;                /* Center-align all content */
+  background-color: #111;           /* Dark background for contrast */
+  color: #fff;                      /* White text */
+  font-family: Arial, sans-serif;   /* Clean readable font */
+  margin: 0;
+  padding: 0;
+}
+
+/* Canvas styling */
+canvas {
+  background-color: #333;           /* Slightly lighter than background */
+  display: block;                   /* Removes inline spacing */
+  margin: 20px auto;                /* Center horizontally with margin */
+  border: 2px solid #555;           /* Optional: visible border around game area */
+}
